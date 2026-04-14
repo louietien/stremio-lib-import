@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Environment / credentials — never commit these
+.env
+
+# Generated output
+output.txt
+
+# OS / editor
+.DS_Store
+.vscode/
